@@ -1,0 +1,11 @@
+{
+    "name": "TypeItem",
+    "alias": "typeItem",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\TypeItem\\Providers\\TypeItemServiceProvider"
+    ],
+    "files": []
+}
