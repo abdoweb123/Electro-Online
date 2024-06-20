@@ -3,14 +3,14 @@
 
 ### Website
 <div style="display:flex; justify-content:space-between" style="margin: 10px;">
-  <img src="https://github.com/abdoweb123/Electro-Online/assets/96248035/a07f279a-ba0d-4a50-b6a7-52dcb1ec4317" width="300"> &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/abdoweb123/Electro-Online/assets/96248035/d45d1a94-8d24-4f30-a773-845803179f50" width="300"> &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/abdoweb123/Electro-Online/assets/96248035/b7debf0d-f473-4869-9d07-8ae1e2b9e5e5" width="300"> &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/abdoweb123/Electro-Online/assets/96248035/a07f279a-ba0d-4a50-b6a7-52dcb1ec4317" width="200"> &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/abdoweb123/Electro-Online/assets/96248035/d45d1a94-8d24-4f30-a773-845803179f50" width="200"> &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/abdoweb123/Electro-Online/assets/96248035/b7debf0d-f473-4869-9d07-8ae1e2b9e5e5" width="200"> &nbsp;&nbsp;&nbsp;
 </div>&nbsp;&nbsp;&nbsp;
 <div style="display:flex; justify-content:space-between" style="margin: 10px;">
-  <img src="https://github.com/abdoweb123/Electro-Online/assets/96248035/d624d9e8-0e26-4364-bc1f-5a7948c9ea52" width="300"> &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/abdoweb123/Electro-Online/assets/96248035/c661bf96-4180-4d13-a83e-f1bfe3f54668" width="300"> &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/abdoweb123/Electro-Online/assets/96248035/3955592c-9893-4b27-a913-05675f8683f2" width="300"> &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/abdoweb123/Electro-Online/assets/96248035/d624d9e8-0e26-4364-bc1f-5a7948c9ea52" width="200"> &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/abdoweb123/Electro-Online/assets/96248035/c661bf96-4180-4d13-a83e-f1bfe3f54668" width="200"> &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/abdoweb123/Electro-Online/assets/96248035/3955592c-9893-4b27-a913-05675f8683f2" width="200"> &nbsp;&nbsp;&nbsp;
 </div>&nbsp;&nbsp;&nbsp;
 <div style="display:flex; justify-content:space-between" style="margin: 10px;">  
   <img src="https://github.com/abdoweb123/Electro-Online/assets/96248035/6e167299-87aa-4e94-8f83-005539c824da" width="300"> &nbsp;&nbsp;&nbsp;
